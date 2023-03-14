@@ -8,6 +8,9 @@ In this program, When the “Add PacMan” button is clicked, a new pacman shoul
 and when the “Start Game” button is clicked, the pacman or pacmen created should start moving at random velocity on the screen.
 When a given pacman hits the edge of the screen, it should change position to stay within the frame of the web page.
 
+How to Run: 
+Download all the files cintains within this respositiories and open the html file, the action will appeared within the webpage.
+
 Roadmap of future improvements:
 The future improvements of this project will be add in more variority of actions images, suhc as PokeMan, KingKon etc, to give more flavors to player of this project.
 
